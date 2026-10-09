@@ -1,0 +1,6 @@
+{
+  "name": "CorrespondenciaAI - Gestor Inteligente & Firma Digital",
+  "description": "Plataforma integral para procesamiento y análisis de correspondencia por Email y WhatsApp con clasificación IA, agendamiento automático, notificaciones y firma electrónica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
